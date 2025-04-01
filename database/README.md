@@ -1,10 +1,13 @@
 # Database Schema Setup
 
-## 📌Structure
+## 📌Structure:
+
 This file (`database.sql`) contains the complete schema of the academic database used in my SQL queries.
 
-🗂 Main tables
+🗂 Main tables:
+
 cursos, estudiantes, matriculaciones, departamentos, profesores, horarios
 
-⚠️ Notes
+⚠️ Notes:
+
 Tables include foreign key relationships.
